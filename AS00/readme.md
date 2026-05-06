@@ -189,6 +189,7 @@ needed!
 We will do all these at the end of the setup.
 
 Download [Tortoise Git](https://tortoisegit.org/download/)
+
 [Tutorial Video](https://youtu.be/JMccPSx8_3Y)
 
 ## Createing SSH keys
