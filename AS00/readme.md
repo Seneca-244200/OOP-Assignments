@@ -167,6 +167,17 @@ be tracked or shared.
 
 [Tutorial Video](https://youtu.be/iJJ15rLb9_k)
 
+## Install Visual Studio on your PC
+
+This may take up to an hour, so make sure you have enough time to do
+this without interruption
+
+[Download Visual Studio Community Version](https://visualstudio.microsoft.com/downloads/)
+
+> please install version 2026 (not 2022 as the video demos)
+
+[Tutorial Video](https://youtu.be/D6B0rXJYhTI)
+
 ## Installing Tortoise Git
 
 TortoiseGit is a Windows tool that makes using Git super easy by adding
@@ -350,16 +361,6 @@ pushall "your commit message"
 
 4.  Change the current directory to the newly cloned repository. You
     will see all the files present.
-
-## Install Visual Studio on your PC
-
-This may take up to an hour, so make sure you have enough time to do
-this without interruption
-
-[Download Visual Studio Community
-Version](https://visualstudio.microsoft.com/downloads/)
-
-[Tutorial Video](https://youtu.be/D6B0rXJYhTI)
 
 ## Creating A console application for Assignment Zero
 
@@ -712,7 +713,7 @@ it following the instructions in the Submission section.
 > at Seneca
 
 ``` bash
-~profname.proflastname/submit 2??/wX/lab_sss <ENTER>
+~profname.proflastname/submit 2??/aX/lab_sss <ENTER>
 ```
 
 -   Replace **??** with your subject code (`00 or 44`)
@@ -722,7 +723,7 @@ it following the instructions in the Submission section.
 ### Reflection Submission
 
 ``` bash
-~profname.proflastname/submit 2??/wX/ref_sss <ENTER>
+~profname.proflastname/submit 2??/aX/ref_sss <ENTER>
 ```
 
 -   Replace **??** with your subject code (`00 or 44`)
