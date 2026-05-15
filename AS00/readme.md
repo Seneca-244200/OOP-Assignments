@@ -387,7 +387,7 @@ https://github.com/.../OOP244-Works
 
 ### Go to [Pulling the assignment on matrix](#pull-the-assignment-to-matrix-and-test-your-work-for-submission)
 
-## \# Mac (Apple) instructions
+# Mac (Apple) instructions
 
 ## GitHub setup
 
