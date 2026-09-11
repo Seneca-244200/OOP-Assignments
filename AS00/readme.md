@@ -2,6 +2,18 @@
 
 ------------------------------------------------------------------------
 
+> ⚠️ **Before You Begin** You **must read and understand** the
+> [Assignment Regulations and Policies](../README.md) before starting
+> this or any other assignment. This document outlines important rules
+> about academic integrity, submission procedures, and expectations.
+> These policies apply to **all assignments** in OOP244. If you have
+> already read it once, please ensure you continue to follow its
+> guidelines throughout the course.
+
+
+------------------------------------------------------------------------
+
+
 In this initial assignment, you will install and configure the software
 needed to help you code, debug, and collaborate using the C++ language.
 
