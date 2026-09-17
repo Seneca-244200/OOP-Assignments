@@ -45,8 +45,11 @@ Every submitted source file must begin with a citation comment that includes:
 - Your full name
 - Seneca email address
 - Seneca student ID
+- Repository path
 - Subject and section
 - Dates of changes, debugging, and commits
+
+To obtain the repository path, open the assignment's directory in your GitHub repository using a web browser, then copy the URL from the browser's address bar.
 
 **Assignments that include a submitted file without a citation will not be marked and will receive a grade of zero.**
 
@@ -108,6 +111,7 @@ Filename: Whatever.cpp
 -----------------------------------------------------------
 Author: John Doe
 Student number: 999,999,999
+Repository: https://github.com/GIT_USER_ID/OOP244-Assignments/tree/main/CODE_DIRECTORY
 Email: jdoe@myseneca.ca
 Subject: ABC123NAA
 -----------------------------------------------------------
@@ -138,6 +142,7 @@ Filename: Whatever.cpp
 -----------------------------------------------------------
 Author: John Doe
 Student number: 999,999,999
+Repository: https://github.com/GIT_USER_ID/OOP244-Assignments/tree/main/CODE_DIRECTORY
 Email: jdoe@myseneca.ca
 Subject: ABC123NAA
 -----------------------------------------------------------
