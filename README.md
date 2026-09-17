@@ -14,6 +14,12 @@ A DIY section may also be provided at the end of an assignment. Complete the DIY
 
 - **DIY**: A Do It Yourself practice section that is more open-ended. DIY work does not need to be submitted to your professor and is not marked. However, you may test your program using the automated submitter program, or ask your professor for help or feedback.
 
+## Coding and Development
+
+All assignments and other coding work for this subject must be present in the repository created in Assignment Zero. The number, timing, and nature of the commits must demonstrate the gradual development of your work.
+
+Work that appears suddenly in the repository without a credible development history, or work that is not present in the repository, will receive a grade of zero and may be flagged for possible plagiarism.
+
 ## Understanding Academic Integrity Violations
 
 Please read the following document to understand what constitutes an academic integrity violation and to make sure your work follows Seneca Polytechnic's requirements:
