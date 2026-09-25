@@ -276,7 +276,7 @@ fields:
 Reads a name from console input.
 
 -   Receives a C-style string as an argument to store the name.
--   Prompts the user with: `"name>\n "`
+-   Prompts the user with: `"Name\n> "`
 -   Reads the input into the given C-string using `cin`.
 -   Assumes the name entered has no spaces.
 -   Returns `void`.
