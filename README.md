@@ -371,3 +371,16 @@ int main()
   - Variable: `orderCount`
   - Function: `calculateTotal()`
   - Parameter: `inputValue`
+    
+- **Global and File Scope constant values**
+  All Capital, words may be separated by `_`
+
+  Examples:
+   `PI`, `MAXLEN` and `MIN_VALUE` in following examaples
+    ```cpp
+    const double PI = 3.15159265L;
+    const size_t MAXLEN = 999;
+    const int MIN_VALUE = -123;
+    ```
+   
+  
